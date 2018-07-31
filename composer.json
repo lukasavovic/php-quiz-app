@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "classmap": [
+      "./"
+    ]
+  },
+  "require": {
+    "leafo/scssphp": "^0.7.7",
+    "chasegiunta/scss": "^1.0"
+  }
+}

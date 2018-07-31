@@ -1,0 +1,12 @@
+{% scss %}
+    body{
+        background-color: aliceblue;
+    }
+    .login-form {
+        width: 50%;
+        margin: 0 auto;
+    }
+    h1 {
+        font-size: 40px;
+    }
+{% endscss %}
